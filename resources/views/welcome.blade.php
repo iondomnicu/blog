@@ -18,9 +18,8 @@
 
     <nav class="cd-main-nav-wrapper">
         <ul class="cd-main-nav">
-            <li><a href="#0">About</a></li>
-            <li><a href="#0">Projects</a></li>
-            <li><a href="#0">Blog</a></li>
+            <li><a href="#0">Despre</a></li>
+            <li><a href="#0">Proiecte</a></li>
             <li><a href="#0">Contact</a></li>
             <li>
                 <a href="#0" class="cd-subnav-trigger"><span>Categories</span></a>
